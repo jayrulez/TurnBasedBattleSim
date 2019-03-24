@@ -1,0 +1,45 @@
+!PrefabAsset
+Id: 6b7ef058-03b7-4ee9-b74e-e719ca86329f
+SerializedVersion: {Xenko: 3.1.0.1}
+Tags: []
+Hierarchy:
+    RootParts:
+        - ref!! 7af3f79c-b2a9-4503-bef9-01e22cec3afb
+    Parts:
+        -   Entity:
+                Id: 4dd48324-d880-4c4b-a368-287102b46d4b
+                Name: BattleCardUI
+                Components:
+                    031d659969c58ec40673d5af1e9d6b05: !TransformComponent
+                        Id: 93b6ca5f-78ac-4de1-98c6-9e7c686ddc38
+                        Position: {X: -0.148598909, Y: 0.7148119, Z: 0.0}
+                        Rotation: {X: 0.0, Y: 0.0, Z: 0.0, W: 1.0}
+                        Scale: {X: 1.0, Y: 1.0, Z: 1.0}
+                        Children: {}
+                    f6a19dce6c4b8758f1056b7c5db1cb78: !UIComponent
+                        Id: e37d27cb-2b71-40fb-9401-e6cae0ab723e
+                        Page: 92e00185-4caf-4e38-b70e-564d5a367b69:BattleCardUI
+                        IsFullScreen: false
+                        Resolution: {X: 100.0, Y: 120.0, Z: 1000.0}
+                        Size: {X: 3.35, Y: 5.5, Z: 1.0}
+                        ResolutionStretch: FixedWidthFixedHeight
+        -   Entity:
+                Id: 7af3f79c-b2a9-4503-bef9-01e22cec3afb
+                Name: BattleCard
+                Components:
+                    a580c287da86a24485c35d7c8fb90298: !TransformComponent
+                        Id: 2ae31315-02e8-47ec-9bc0-368edc18e27a
+                        Position: {X: 0.0, Y: 0.0, Z: 0.0}
+                        Rotation: {X: 0.0, Y: 0.0, Z: 0.0, W: 1.0}
+                        Scale: {X: 0.5, Y: 0.5, Z: 0.5}
+                        Children:
+                            a9274685b3b775935392edb57f692cf2: ref!! 93b6ca5f-78ac-4de1-98c6-9e7c686ddc38
+                    7284f958850a47ab2c249858fe261a32: !SpriteComponent
+                        Id: 76cd01fb-0b6b-4d12-8f52-21e87f751220
+                        SpriteProvider: !SpriteFromSheet
+                            Sheet: 1ac24e48-f2ab-4964-b84c-fc884c5bbac1:Characters
+                        Color: {R: 1.0, G: 1.0, B: 1.0, A: 1.0}
+                    79c68447bda70330015d8ea33caaa497: !TurnBasedBattleSim.Game.BattleCardScript,TurnBasedBattleSim.Game
+                        Id: 1ada0f06-5894-4eaa-aa43-b7d3331420b3
+                        CharacterSpriteIndex: 0
+                        BattleCardUI: 92e00185-4caf-4e38-b70e-564d5a367b69:BattleCardUI

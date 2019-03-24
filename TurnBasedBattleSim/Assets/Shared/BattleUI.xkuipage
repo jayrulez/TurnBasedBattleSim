@@ -1,0 +1,190 @@
+!UIPageAsset
+Id: 44a4cf64-3848-4e33-8f25-d2ff27542aa9
+SerializedVersion: {Xenko: 2.1.0.1}
+Tags: []
+Design:
+    Resolution: {X: 800.0, Y: 480.0, Z: 1000.0}
+Hierarchy:
+    RootParts:
+        - !StackPanel ref!! b7121e10-af8b-4fe5-bd6f-80f4768d32bb
+    Parts:
+        -   UIElement: !Button
+                Id: 2244c070-f038-499c-9b7d-b9e171d13772
+                DependencyProperties: {}
+                BackgroundColor: {R: 0, G: 0, B: 0, A: 0}
+                DrawLayerNumber: 2
+                CanBeHitByUser: true
+                Width: 64.0
+                Height: 64.0
+                HorizontalAlignment: Right
+                VerticalAlignment: Bottom
+                Margin: {}
+                MinimumWidth: 64.0
+                MinimumHeight: 64.0
+                MaximumWidth: 3.40282347E+38
+                MaximumHeight: 3.40282347E+38
+                MaximumDepth: 3.40282347E+38
+                Name*: Skill2Button
+                Padding: {Left: 10.0, Top: 5.0, Right: 10.0, Bottom: 7.0}
+                Content: !ImageElement ref!! 9620e1df-834e-4d5a-a2b4-ecfda8c87385
+            Base:
+                BasePartAsset: 38372c99-5276-435d-a41d-51ba559abe22:BattleUILibrary
+                BasePartId: 8b270002-0c6a-4795-8de2-141ba0b21d90
+                InstanceId: 35901019-b045-4ed2-85fb-a18e10577470
+        -   UIElement: !Button
+                Id: 56606dd8-cfc1-483b-a084-71374f793fd6
+                DependencyProperties: {}
+                BackgroundColor: {R: 0, G: 0, B: 0, A: 0}
+                DrawLayerNumber: 2
+                CanBeHitByUser: true
+                Width: 64.0
+                Height: 64.0
+                HorizontalAlignment: Right
+                VerticalAlignment: Bottom
+                Margin: {}
+                MinimumWidth: 64.0
+                MinimumHeight: 64.0
+                MaximumWidth: 3.40282347E+38
+                MaximumHeight: 3.40282347E+38
+                MaximumDepth: 3.40282347E+38
+                Name*: Skill1Button
+                Padding: {Left: 10.0, Top: 5.0, Right: 10.0, Bottom: 7.0}
+                Content: !ImageElement ref!! 9288b906-f0ce-4898-b28e-aae2c5074ca9
+            Base:
+                BasePartAsset: 38372c99-5276-435d-a41d-51ba559abe22:BattleUILibrary
+                BasePartId: 8b270002-0c6a-4795-8de2-141ba0b21d90
+                InstanceId: 048f5649-21fc-4c2d-896f-3bb71839b6d3
+        -   UIElement: !Button
+                Id: 6b1d0ba1-dbd3-4c10-8d6e-f2ca29d85691
+                DependencyProperties: {}
+                BackgroundColor: {R: 0, G: 0, B: 0, A: 0}
+                DrawLayerNumber: 2
+                CanBeHitByUser: true
+                Width: 64.0
+                Height: 64.0
+                HorizontalAlignment: Right
+                VerticalAlignment: Bottom
+                Margin: {}
+                MinimumWidth: 64.0
+                MinimumHeight: 64.0
+                MaximumWidth: 3.40282347E+38
+                MaximumHeight: 3.40282347E+38
+                MaximumDepth: 3.40282347E+38
+                Name*: Skill4Button
+                Padding: {Left: 10.0, Top: 5.0, Right: 10.0, Bottom: 7.0}
+                Content: !ImageElement ref!! f2453c3b-319a-4487-a5d1-b52a172b9f01
+            Base:
+                BasePartAsset: 38372c99-5276-435d-a41d-51ba559abe22:BattleUILibrary
+                BasePartId: 8b270002-0c6a-4795-8de2-141ba0b21d90
+                InstanceId: e3a06e03-8f5e-425c-83ec-130e3de09b7b
+        -   UIElement: !Button
+                Id: 83ec1512-b3ce-4b00-a505-bd7ecafcdb09
+                DependencyProperties: {}
+                BackgroundColor: {R: 0, G: 0, B: 0, A: 0}
+                Visibility*: Visible
+                DrawLayerNumber: 2
+                CanBeHitByUser: true
+                Width: 64.0
+                Height: 64.0
+                HorizontalAlignment: Right
+                VerticalAlignment: Bottom
+                Margin: {}
+                MinimumWidth: 64.0
+                MinimumHeight: 64.0
+                MaximumWidth: 3.40282347E+38
+                MaximumHeight: 3.40282347E+38
+                MaximumDepth: 3.40282347E+38
+                Name*: Skill3Button
+                Padding: {Left: 10.0, Top: 5.0, Right: 10.0, Bottom: 7.0}
+                Content: !ImageElement ref!! c26e67ca-5cd8-4992-865f-fd0bab20a73f
+            Base:
+                BasePartAsset: 38372c99-5276-435d-a41d-51ba559abe22:BattleUILibrary
+                BasePartId: 8b270002-0c6a-4795-8de2-141ba0b21d90
+                InstanceId: 01d0f2a1-bc2e-4061-8a3f-3dcd78e9ad31
+        -   UIElement: !ImageElement
+                Id: 9288b906-f0ce-4898-b28e-aae2c5074ca9
+                DependencyProperties: {}
+                BackgroundColor: {R: 0, G: 0, B: 0, A: 0}
+                Margin: {}
+                MinimumHeight: 64.0
+                MaximumWidth: 64.0
+                MaximumHeight: 3.40282347E+38
+                MaximumDepth: 3.40282347E+38
+                Source: !SpriteFromSheet
+                    Sheet: 1ffcc640-fc6f-41e8-b35d-464d0b676ab2:Skills
+                    CurrentFrame: 1
+                Color: {R: 255, G: 255, B: 255, A: 255}
+            Base:
+                BasePartAsset: 38372c99-5276-435d-a41d-51ba559abe22:BattleUILibrary
+                BasePartId: 0a5b349d-ccc5-4dab-a95e-3c74a21f2d73
+                InstanceId: 048f5649-21fc-4c2d-896f-3bb71839b6d3
+        -   UIElement: !ImageElement
+                Id: 9620e1df-834e-4d5a-a2b4-ecfda8c87385
+                DependencyProperties: {}
+                BackgroundColor: {R: 0, G: 0, B: 0, A: 0}
+                Margin: {}
+                MinimumHeight: 64.0
+                MaximumWidth: 64.0
+                MaximumHeight: 3.40282347E+38
+                MaximumDepth: 3.40282347E+38
+                Source: !SpriteFromSheet
+                    Sheet: 1ffcc640-fc6f-41e8-b35d-464d0b676ab2:Skills
+                    CurrentFrame: 1
+                Color: {R: 255, G: 255, B: 255, A: 255}
+            Base:
+                BasePartAsset: 38372c99-5276-435d-a41d-51ba559abe22:BattleUILibrary
+                BasePartId: 0a5b349d-ccc5-4dab-a95e-3c74a21f2d73
+                InstanceId: 35901019-b045-4ed2-85fb-a18e10577470
+        -   UIElement: !StackPanel
+                Id: b7121e10-af8b-4fe5-bd6f-80f4768d32bb
+                DependencyProperties: {}
+                BackgroundColor: {R: 0, G: 0, B: 0, A: 0}
+                HorizontalAlignment: Right
+                VerticalAlignment: Bottom
+                Margin: {}
+                MaximumWidth: 3.40282347E+38
+                MaximumHeight: 3.40282347E+38
+                MaximumDepth: 3.40282347E+38
+                DefaultWidth: 256.0
+                DefaultHeight: 64.0
+                Name: SkillButtonContainer
+                Children:
+                    479de05da76178a22b282f7ffbecb7e1: !Button ref!! 56606dd8-cfc1-483b-a084-71374f793fd6
+                    2131e8a610cbcc4502f4f1fb0c041afc: !Button ref!! 2244c070-f038-499c-9b7d-b9e171d13772
+                    24749037764eb25458b21cf7aedd35f2: !Button ref!! 83ec1512-b3ce-4b00-a505-bd7ecafcdb09
+                    0c0651d76279ab5f2c16a6bdad745224: !Button ref!! 6b1d0ba1-dbd3-4c10-8d6e-f2ca29d85691
+                Orientation: Horizontal
+        -   UIElement: !ImageElement
+                Id: c26e67ca-5cd8-4992-865f-fd0bab20a73f
+                DependencyProperties: {}
+                BackgroundColor: {R: 0, G: 0, B: 0, A: 0}
+                Margin: {}
+                MinimumHeight: 64.0
+                MaximumWidth: 64.0
+                MaximumHeight: 3.40282347E+38
+                MaximumDepth: 3.40282347E+38
+                Source: !SpriteFromSheet
+                    Sheet: 1ffcc640-fc6f-41e8-b35d-464d0b676ab2:Skills
+                    CurrentFrame: 1
+                Color: {R: 255, G: 255, B: 255, A: 255}
+            Base:
+                BasePartAsset: 38372c99-5276-435d-a41d-51ba559abe22:BattleUILibrary
+                BasePartId: 0a5b349d-ccc5-4dab-a95e-3c74a21f2d73
+                InstanceId: 01d0f2a1-bc2e-4061-8a3f-3dcd78e9ad31
+        -   UIElement: !ImageElement
+                Id: f2453c3b-319a-4487-a5d1-b52a172b9f01
+                DependencyProperties: {}
+                BackgroundColor: {R: 0, G: 0, B: 0, A: 0}
+                Margin: {}
+                MinimumHeight: 64.0
+                MaximumWidth: 64.0
+                MaximumHeight: 3.40282347E+38
+                MaximumDepth: 3.40282347E+38
+                Source: !SpriteFromSheet
+                    Sheet: 1ffcc640-fc6f-41e8-b35d-464d0b676ab2:Skills
+                    CurrentFrame: 1
+                Color: {R: 255, G: 255, B: 255, A: 255}
+            Base:
+                BasePartAsset: 38372c99-5276-435d-a41d-51ba559abe22:BattleUILibrary
+                BasePartId: 0a5b349d-ccc5-4dab-a95e-3c74a21f2d73
+                InstanceId: e3a06e03-8f5e-425c-83ec-130e3de09b7b

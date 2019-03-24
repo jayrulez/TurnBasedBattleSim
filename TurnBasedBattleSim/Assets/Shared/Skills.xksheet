@@ -1,0 +1,799 @@
+!SpriteSheet
+Id: 1ffcc640-fc6f-41e8-b35d-464d0b676ab2
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+Type: UI
+ColorKeyColor: {R: 255, G: 0, B: 255, A: 255}
+Packing: {}
+Sprites:
+    0ca91d8c9c36e36737f83381ca3c5484:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 0, Y: 0, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    80bf4448b1ac024e0782f4c5a845aa97:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 66, Y: 0, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    c1236f2d178a0c70236155394d52e52b:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 132, Y: 0, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    dafe322fe9d149266aa14f9134a30ee3:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 198, Y: 0, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    35c1910dfbd38cf056a2f34bc09cd4e9:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 264, Y: 0, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    b69f9d9dca6a08eb55b79bf8c80260a9:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 330, Y: 0, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    73b4f78b56ab9f401980bf27a1ed33e9:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 396, Y: 0, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    fc004f9b4dabe72cbfdba477c8462d99:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 462, Y: 0, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    cd9bca8651d02e338fa68debecae2065:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 528, Y: 0, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    7698ff763fb172a99ff9bb8b884608ad:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 594, Y: 0, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    7a0098a3b932d1050bbb989e79ac9845:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 0, Y: 66, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    d76f090849ff5abbb4549613f53c8430:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 66, Y: 66, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    dd3cc6ed83a3c47ff96e9330d6d28245:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 132, Y: 66, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    f99e8b7f8b2bcf426333e6ef67ef93c6:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 198, Y: 66, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    5def33f70c90de73857a375376702b0d:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 264, Y: 66, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    320ce3c20da6faec6fc4c09781414ed4:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 330, Y: 66, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    ce24439ad223418b199b46dccfad5798:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 396, Y: 66, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    0af19763139dcd0eff04ed88b989911c:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 462, Y: 66, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    b0418511df81d908375b079a11962fd8:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 528, Y: 66, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    6c0e5614bfbc643410ca28d1a0de8efe:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 594, Y: 66, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    be35aa1776d09acab84f6f5308249c11:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 0, Y: 132, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    5254ac763741804389a9558512a16c94:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 66, Y: 132, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    fa30c5d456f583aaf8813d7532581416:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 132, Y: 132, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    bcedbb96fec22d1c5eca9f41d39ead03:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 198, Y: 132, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    32467e01a906708d0dee2fddb8f15d7a:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 264, Y: 132, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    53b00b42592441f0aa07268f370576f4:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 330, Y: 132, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    6b40da5628c1bec7d2cafd48f9939e0a:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 396, Y: 132, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    68ef85c8a03f0affc80420745ad83b81:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 462, Y: 132, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    3c7768188391e0aa1cad910c246c2e9f:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 528, Y: 132, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    18409f056bba27736fe9ac8fa8414165:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 594, Y: 132, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    2eb00fa0ff930b1d3c4bc68b4975df3d:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 0, Y: 198, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    c1c01d61a6b2bc7888104cf80c33a1d3:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 66, Y: 198, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    573777db20a0206e172f1267247d5c4c:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 132, Y: 198, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    396b95972411fd1e02c14e4a199add97:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 198, Y: 198, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    f1a55f996c14609a21ca34665aa4d10f:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 264, Y: 198, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    e5594022b13f5718ac9bd753e9a3de5f:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 330, Y: 198, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    12895308497dcd91e744f33e420777fb:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 396, Y: 198, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    e0a9a525dbd59022c4aeeb4561f949af:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 462, Y: 198, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    15315fe0d8ffb36fdb6dc63fcd3e6aab:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 528, Y: 198, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    63ebe1ddeb2a9f75b0509dff7681abce:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 594, Y: 198, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    d9c37d292b7ea99b0b432e1e65ae07e8:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 0, Y: 264, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    c67a12acb0f13ffacb0a7430f0641d65:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 66, Y: 264, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    5f2d53dffae0b27430a9bbd90859a9fb:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 132, Y: 264, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    77472a5a37e61ffe677ada037bca03b8:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 198, Y: 264, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    59695a24891d05dbc97797c2e06b09d8:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 264, Y: 264, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    e43b0f963a7a9e7a6acfdeb874c36226:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 330, Y: 264, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    bbec9f8d0f31756e5934205fe0fc56d7:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 396, Y: 264, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    6764fd42c7c4f7f416649c2bcea08b98:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 462, Y: 264, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    02062d02342e5bfd418a6cd376bec7ca:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 528, Y: 264, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    1900f22f446f725d881be3103f8e0171:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 594, Y: 264, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    83fa889f9eef4f32407bce9f23cce902:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 0, Y: 330, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    6eee2b608ea098fa008d0249e3b8111b:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 66, Y: 330, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    2b746dd53718ccd477b7c8c55732963c:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 132, Y: 330, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    a8118651432f8b04a474a743947faf81:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 198, Y: 330, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    70f9761d92da671b03003c1546aa489a:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 264, Y: 330, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    8d26857f9d8c9eee2d761652439e0d90:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 330, Y: 330, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    12d3d8db5d1c4a68b9d9baf00eb78fc3:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 396, Y: 330, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    93bfea2ca46bfe5ee5af9be8f4a161e9:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 462, Y: 330, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    8d279b9a2996376a3fad61bedaee16fc:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 528, Y: 330, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    cb1a34481cfd4703e9aaf52e9e71c91e:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 594, Y: 330, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    ab0b15d2a930497bd03456184fe1243a:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 0, Y: 396, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    3a240ce3dd57ad58aec13156d15e4ec7:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 66, Y: 396, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    fb12ccd0b5e3e4f16e2be3fbe8a1513f:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 132, Y: 396, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    395b715226e8f2545593f4ee7a0d5a95:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 198, Y: 396, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    20fdfb23fd65fb436a15d5906392d4ce:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 264, Y: 396, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    fde2f073feb0eb88271be542c69b3d4c:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 330, Y: 396, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    ccda2bea714fd508fdce62b5de00a882:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 396, Y: 396, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    49ee07f798cd89944139f041e9803e8a:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 462, Y: 396, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    7ec9bbc1e3a9df1356d09b0097870ad4:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 528, Y: 396, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    8f42811e254ef3ed38a4bf8a276484fa:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 594, Y: 396, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    e15b5cc1e650659cf7a58c20897ba210:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 0, Y: 462, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    43ca9463e992d3f9606b262c37d9e93b:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 66, Y: 462, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    fa615f53f0cec7eb8f0ffe36540a0ce0:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 132, Y: 462, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    6a3067828704adc56c525a683d4e8068:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 198, Y: 462, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    fdd04c094c2d7487208bdeb3919bdffe:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 264, Y: 462, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    484f60c81a4c87e8bcbc4167b6d7888f:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 330, Y: 462, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    ce20b09590b4fc785aa8af420eab9d6a:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 396, Y: 462, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    8d784365a026d787bd496493a3216285:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 462, Y: 462, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    e41c0c56571bded6030344791396923a:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 528, Y: 462, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    2c50e35d6730c5e0f87bf281102b9cdd:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 594, Y: 462, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    adcadd736412f3032734fb4f977a442d:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 0, Y: 528, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    898596fdefb704870af5b165dd816a7e:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 66, Y: 528, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    280631fd101498ccf2ce5221a20a64ea:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 132, Y: 528, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    d31e2e57e56882d83698350c0dff3827:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 198, Y: 528, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    f64ecc95bf8d2562bba6bfb9fb8a22c7:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 264, Y: 528, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    0329544da8d6c93f403bbf89a0074a2c:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 330, Y: 528, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    6a8f7db97121f1fd839aebc9210fd01d:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 396, Y: 528, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    699a4cbf71e70b3146f990ef386ca025:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 462, Y: 528, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    746602a715a16c059d1c137d6d40f5ce:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 528, Y: 528, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    66772c364de83b38d02aa7a1dc6f2b1f:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 594, Y: 528, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    70c0fa29ea8601a1e0fd27f4f87739bc:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 0, Y: 594, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    8580d0ac910d06db414d7ea9eff6003c:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 66, Y: 594, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    66527e5878fedda3cf3b72e848fc9df0:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 132, Y: 594, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    0df0366eb74ceda3273b09077f14e386:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 198, Y: 594, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    4d8e58838514cc5e86d7b55cd42aa2e7:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 264, Y: 594, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    d895f578caed0721af01b966a37d7be4:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 330, Y: 594, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    7ffe733d5b469d97ea5ef2fa47f74d90:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 396, Y: 594, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    e9f5aaf38258991024925d32a064f3b1:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 462, Y: 594, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    dfe30a9a45f29bada416a42b445ac621:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 528, Y: 594, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    5b1c11bbc79efeb73d47453c3c283b4b:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 594, Y: 594, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    4f9af662a424a6b987794f45e8d08c9f:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 0, Y: 660, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    9fe2a65c85edc3079f813b890489758e:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 66, Y: 660, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    dd0fa62c65165ea2a5d0a3646546fbb1:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 132, Y: 660, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    273f14ef9fe7c62a28293d75c23cb990:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 198, Y: 660, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    e5f64435f764b5593f5bca88642fdb1a:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 264, Y: 660, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    76aaaad0873fbac8a1233939ed2f4899:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 330, Y: 660, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    c22481a4db74a94378d16cfe6da42f44:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 396, Y: 660, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    a8c5aa955f583d28278c27bc487b3ecd:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 462, Y: 660, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    32d11e5e1ea7add6a11bbc723b6732de:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 528, Y: 660, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    a68178177fa0d8eb94c6c1f320f583ed:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 594, Y: 660, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    3f2bc253312a741ba56ad01532450d16:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 0, Y: 726, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    3e916f418bebb790e8f63a98feaab0bd:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 66, Y: 726, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    246bf63df20fc8c8da4ea926102a0f01:
+        Source: ../../Resources/SkillAtlas.png
+        Name: Skill1
+        TextureRegion: {X: 132, Y: 726, Width: 64, Height: 64}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}

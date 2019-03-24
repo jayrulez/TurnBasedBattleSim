@@ -1,0 +1,129 @@
+!UILibraryAsset
+Id: 38372c99-5276-435d-a41d-51ba559abe22
+SerializedVersion: {Xenko: 2.1.0.1}
+Tags: []
+Design:
+    Resolution: {X: 1280.0, Y: 720.0, Z: 1000.0}
+PublicUIElements:
+    8b270002-0c6a-4795-8de2-141ba0b21d90: SkillButton
+    cbd471e4-a790-4ef4-a89a-ee4f5076f376: BattleCardUI
+Hierarchy:
+    RootParts:
+        - !Button ref!! 8b270002-0c6a-4795-8de2-141ba0b21d90
+        - !UniformGrid ref!! cbd471e4-a790-4ef4-a89a-ee4f5076f376
+    Parts:
+        -   UIElement: !ImageElement
+                Id: 0a5b349d-ccc5-4dab-a95e-3c74a21f2d73
+                DependencyProperties: {}
+                BackgroundColor: {R: 0, G: 0, B: 0, A: 0}
+                Margin: {}
+                MinimumHeight: 64.0
+                MaximumWidth: 64.0
+                MaximumHeight: 3.40282347E+38
+                MaximumDepth: 3.40282347E+38
+                Source: !SpriteFromSheet
+                    Sheet: 1ffcc640-fc6f-41e8-b35d-464d0b676ab2:Skills
+                    CurrentFrame: 1
+                Color: {R: 255, G: 255, B: 255, A: 255}
+        -   UIElement: !ImageElement
+                Id: 27b5a17a-4fd6-4f0f-b3d6-21afba93a806
+                DependencyProperties: {}
+                BackgroundColor: {R: 0, G: 0, B: 0, A: 0}
+                Width: 119.999985
+                Height: 10.0
+                VerticalAlignment: Top
+                Margin: {Top: 20.0, Right: 1.52587891E-05}
+                MaximumWidth: 3.40282347E+38
+                MaximumHeight: 3.40282347E+38
+                MaximumDepth: 3.40282347E+38
+                Name: TurnBar
+                Source: !SpriteFromSheet
+                    Sheet: 6dd7bca8-285d-44cc-9ea1-3c0182636a89:GameUISpriteSheet
+                    CurrentFrame: 37
+                Color: {R: 255, G: 255, B: 255, A: 255}
+                StretchType: FillOnStretch
+        -   UIElement: !ImageElement
+                Id: 4b01b4e4-5490-496b-8733-bbc18b94cf48
+                DependencyProperties: {}
+                BackgroundColor: {R: 0, G: 0, B: 0, A: 0}
+                Width: 10.75
+                Height: 10.75
+                VerticalAlignment: Bottom
+                Margin: {Left: 52.5, Right: 56.75}
+                MaximumWidth: 3.40282347E+38
+                MaximumHeight: 3.40282347E+38
+                MaximumDepth: 3.40282347E+38
+                Name: TurnIndicator
+                Source: !SpriteFromSheet
+                    Sheet: 6dd7bca8-285d-44cc-9ea1-3c0182636a89:GameUISpriteSheet
+                    CurrentFrame: 25
+                Color: {R: 255, G: 255, B: 255, A: 255}
+        -   UIElement: !Button
+                Id: 8b270002-0c6a-4795-8de2-141ba0b21d90
+                DependencyProperties: {}
+                BackgroundColor: {R: 0, G: 0, B: 0, A: 0}
+                DrawLayerNumber: 2
+                CanBeHitByUser: true
+                Width: 64.0
+                Height: 64.0
+                HorizontalAlignment: Right
+                VerticalAlignment: Bottom
+                Margin: {}
+                MinimumWidth: 64.0
+                MinimumHeight: 64.0
+                MaximumWidth: 3.40282347E+38
+                MaximumHeight: 3.40282347E+38
+                MaximumDepth: 3.40282347E+38
+                Name: SkillButton
+                Padding: {Left: 10.0, Top: 5.0, Right: 10.0, Bottom: 7.0}
+                Content: !ImageElement ref!! 0a5b349d-ccc5-4dab-a95e-3c74a21f2d73
+        -   UIElement: !UniformGrid
+                Id: cbd471e4-a790-4ef4-a89a-ee4f5076f376
+                DependencyProperties: {}
+                BackgroundColor: {R: 0, G: 0, B: 0, A: 0}
+                Width: 120.0
+                Height: 110.0
+                Margin: {Left: 585.0, Top: 309.0, Right: 575.0, Bottom: 300.0}
+                MaximumWidth: 3.40282347E+38
+                MaximumHeight: 3.40282347E+38
+                MaximumDepth: 3.40282347E+38
+                Name: BattleCardUI
+                Children:
+                    aa922fde6828cec19c09cf5ce6b2a5fb: !ImageElement ref!! ddea0ffd-fb77-4bd6-8fa2-d386b4335fbc
+                    caa2969a095102e19735f7bd124f439b: !ImageElement ref!! 27b5a17a-4fd6-4f0f-b3d6-21afba93a806
+                    e29f1ec90999544afc109c1b925dd733: !ImageElement ref!! 4b01b4e4-5490-496b-8733-bbc18b94cf48
+                    14369c9b590399f5cb4184c5ddb1e6b0: !ImageElement ref!! e8b60410-e411-4780-9550-e9215895d23b
+        -   UIElement: !ImageElement
+                Id: ddea0ffd-fb77-4bd6-8fa2-d386b4335fbc
+                DependencyProperties: {}
+                BackgroundColor: {R: 0, G: 0, B: 0, A: 0}
+                Width: 119.999992
+                Height: 10.0
+                VerticalAlignment: Top
+                Margin: {Top: 10.0, Right: 7.62939453E-06}
+                MaximumWidth: 3.40282347E+38
+                MaximumHeight: 3.40282347E+38
+                MaximumDepth: 3.40282347E+38
+                Name: HpBar
+                Source: !SpriteFromSheet
+                    Sheet: 6dd7bca8-285d-44cc-9ea1-3c0182636a89:GameUISpriteSheet
+                    CurrentFrame: 8
+                Color: {R: 255, G: 255, B: 255, A: 255}
+                StretchType: FillOnStretch
+        -   UIElement: !ImageElement
+                Id: e8b60410-e411-4780-9550-e9215895d23b
+                DependencyProperties: {}
+                BackgroundColor: {R: 0, G: 0, B: 0, A: 0}
+                Width: 15.0
+                Height: 10.0
+                VerticalAlignment: Top
+                Margin: {Left: 56.6666641, Right: 56.6666679}
+                MaximumWidth: 3.40282347E+38
+                MaximumHeight: 3.40282347E+38
+                MaximumDepth: 3.40282347E+38
+                Name: TargetSelector
+                Source: !SpriteFromSheet
+                    Sheet: 6dd7bca8-285d-44cc-9ea1-3c0182636a89:GameUISpriteSheet
+                    CurrentFrame: 50
+                Color: {R: 255, G: 255, B: 255, A: 255}
+                StretchType: FillOnStretch

@@ -1,0 +1,45 @@
+!Package
+Id: fa6726cf-7811-4a77-9b06-aed6dc20408b
+SerializedVersion: {Assets: 0.0.4}
+Meta:
+    Name: TurnBasedBattleSim
+    Version: 1.0.0.0
+    Authors: []
+    Owners: []
+    RootNamespace: TurnBasedBattleSim
+    Dependencies:
+        -   Name: Xenko
+            Version: 3.0.0.8
+            RootAssets: []
+LocalDependencies: []
+Profiles:
+    -   Name: Shared
+        Platform: Shared
+        InheritProfiles: []
+        AssetFolders:
+            -   Path: Assets/Shared
+            -   Path: TurnBasedBattleSim.Game/Effects
+        ResourceFolders:
+            - Resources
+        OutputGroupDirectories: {}
+        ProjectReferences:
+            -   Id: d98e925e-9d3b-4515-a72a-d9215ad59a42
+                Location: TurnBasedBattleSim.Game/TurnBasedBattleSim.Game.csproj
+                Type: Library
+    -   Name: Windows
+        Platform: Windows
+        InheritProfiles: []
+        AssetFolders:
+            -   Path: Assets/Windows
+        ResourceFolders: []
+        OutputGroupDirectories: {}
+        ProjectReferences:
+            -   Id: 7f65222b-25ad-4637-95f2-58f784657759
+                Location: TurnBasedBattleSim.Windows/TurnBasedBattleSim.Windows.csproj
+                Type: Executable
+ExplicitFolders: []
+Bundles: []
+TemplateFolders: []
+RootAssets:
+    - 6b7ef058-03b7-4ee9-b74e-e719ca86329f:BattleCard
+    - 92e00185-4caf-4e38-b70e-564d5a367b69:BattleCardUI

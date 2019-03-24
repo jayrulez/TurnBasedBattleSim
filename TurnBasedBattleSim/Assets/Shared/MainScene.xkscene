@@ -1,0 +1,142 @@
+!SceneAsset
+Id: dd73cc2c-f632-4387-9b37-98dac320df05
+SerializedVersion: {Xenko: 3.1.0.1}
+Tags: []
+ChildrenIds: []
+Offset: {X: 0.0, Y: 0.0, Z: 0.0}
+Hierarchy:
+    RootParts:
+        - ref!! 70cd4854-5afe-42d0-a433-0d4620cb66a0
+        - ref!! c1a96346-8465-4c28-b295-e460061efdfc
+        - ref!! 4454c193-cfa7-4d18-b918-16a6509fea46
+        - ref!! 45cb4255-68cc-4d50-b1db-f553258f9b31
+        - ref!! f38e2eca-a1b1-4df5-b015-a2e0150343ca
+        - ref!! b3349193-21a7-4f40-9125-853ff747e1de
+        - ref!! a9988e65-a30f-4dbc-a114-251dc49dc07c
+        - ref!! dddc6f55-87eb-407c-bf3e-d0985f1128a7
+        - ref!! 7f206323-9b28-4319-924e-b0eb09d30e91
+        - ref!! fad29f95-c7a1-4fc8-b04f-625dbf4bff10
+    Parts:
+        -   Entity:
+                Id: 4454c193-cfa7-4d18-b918-16a6509fea46
+                Name: Enemy1Position
+                Components:
+                    90c3fa0f743e111f8784482e7bf2a779: !TransformComponent
+                        Id: c72c3e8f-90f7-407f-b116-65fa847e9ebb
+                        Position: {X: -1.97987318, Y: 2.968065, Z: 0.0}
+                        Rotation: {X: 0.0, Y: 0.0, Z: 0.0, W: 1.0}
+                        Scale: {X: 1.0, Y: 1.0, Z: 1.0}
+                        Children: {}
+        -   Folder: null
+            Entity:
+                Id: 45cb4255-68cc-4d50-b1db-f553258f9b31
+                Name: Enemy2Position
+                Components:
+                    90c3fa0f743e111f8784482e7bf2a779: !TransformComponent
+                        Id: c2899d40-82a6-4918-8a5a-0974e7ad64f0
+                        Position: {X: 0.9826536, Y: 2.95853, Z: 0.0}
+                        Rotation: {X: 0.0, Y: 0.0, Z: 0.0, W: 1.0}
+                        Scale: {X: 1.0, Y: 1.0, Z: 1.0}
+                        Children: {}
+        -   Entity:
+                Id: 70cd4854-5afe-42d0-a433-0d4620cb66a0
+                Name: Camera
+                Components:
+                    41dc46578e3a5c7b60d3236ccf42f1fc: !TransformComponent
+                        Id: 5dc15048-eadb-4f6a-99d9-786c89e823f0
+                        Position: {X: 0.0, Y: 0.0, Z: 1000.0}
+                        Rotation: {X: 0.0, Y: 0.0, Z: 0.0, W: 1.0}
+                        Scale: {X: 1.0, Y: 1.0, Z: 1.0}
+                        Children: {}
+                    866fc3f730dbde7cfa82e5e635804756: !CameraComponent
+                        Id: 1aac3144-2b84-4d93-86fb-453caf326720
+                        Name: null
+                        Projection: Orthographic
+                        Slot: 72bbd0e7-e844-4c30-8cc9-b51ee29b7bf8
+                    28c7772ead56b803a6181e7f9d9f9653: !TurnBasedBattleSim.BasicCameraController,TurnBasedBattleSim.Game
+                        Id: 76be6001-e84a-4747-a844-3bf21a111605
+                        KeyboardMovementSpeed: {X: 5.0, Y: 5.0, Z: 5.0}
+                        TouchMovementSpeed: {X: 40.0, Y: 40.0, Z: 20.0}
+                        SpeedFactor: 5.0
+                        KeyboardRotationSpeed: {X: 3.0, Y: 3.0}
+                        MouseRotationSpeed: {X: 90.0, Y: 60.0}
+                        TouchRotationSpeed: {X: 60.0, Y: 40.0}
+        -   Folder: null
+            Entity:
+                Id: 7f206323-9b28-4319-924e-b0eb09d30e91
+                Name: Ally3Position
+                Components:
+                    90c3fa0f743e111f8784482e7bf2a779: !TransformComponent
+                        Id: 3dedeb53-c7e0-4972-9e29-60a3d3c2f3c0
+                        Position: {X: -1.13963258, Y: -2.02601123, Z: 0.0}
+                        Rotation: {X: 0.0, Y: 0.0, Z: 0.0, W: 1.0}
+                        Scale: {X: 1.0, Y: 1.0, Z: 1.0}
+                        Children: {}
+        -   Folder: null
+            Entity:
+                Id: a9988e65-a30f-4dbc-a114-251dc49dc07c
+                Name: Ally1Position
+                Components:
+                    90c3fa0f743e111f8784482e7bf2a779: !TransformComponent
+                        Id: 51cebbc5-a137-4d6b-9b6e-3afaa6994e05
+                        Position: {X: -6.98973942, Y: -2.07666159, Z: 0.0}
+                        Rotation: {X: 0.0, Y: 0.0, Z: 0.0, W: 1.0}
+                        Scale: {X: 1.0, Y: 1.0, Z: 1.0}
+                        Children: {}
+        -   Folder: null
+            Entity:
+                Id: b3349193-21a7-4f40-9125-853ff747e1de
+                Name: Enemy4Position
+                Components:
+                    90c3fa0f743e111f8784482e7bf2a779: !TransformComponent
+                        Id: 9515ab5b-8d64-441c-80de-4f4b5f0abab3
+                        Position: {X: 6.9644146, Y: 2.963041, Z: 0.0}
+                        Rotation: {X: 0.0, Y: 0.0, Z: 0.0, W: 1.0}
+                        Scale: {X: 1.0, Y: 1.0, Z: 1.0}
+                        Children: {}
+        -   Entity:
+                Id: c1a96346-8465-4c28-b295-e460061efdfc
+                Name: BattleManager
+                Components:
+                    47a8e9cf3ec9ad9d27e7c07463c5d48d: !TransformComponent
+                        Id: f7e26093-2dec-49ad-a681-cbb3b2b98441
+                        Position: {X: 0.0, Y: 0.0, Z: 0.0}
+                        Rotation: {X: 0.0, Y: 0.0, Z: 0.0, W: 1.0}
+                        Scale: {X: 1.0, Y: 1.0, Z: 1.0}
+                        Children: {}
+                    1fb975fe661fce2bd57078740627c1b4: !TurnBasedBattleSim.Game.BattleScript,TurnBasedBattleSim.Game
+                        Id: eb297453-5204-4a9b-aa00-e377fc27f5e7
+                        BattleUI: 44a4cf64-3848-4e33-8f25-d2ff27542aa9:BattleUI
+        -   Folder: null
+            Entity:
+                Id: dddc6f55-87eb-407c-bf3e-d0985f1128a7
+                Name: Ally2Position
+                Components:
+                    90c3fa0f743e111f8784482e7bf2a779: !TransformComponent
+                        Id: 2bb99083-be6b-4553-97f2-89c8838b3462
+                        Position: {X: -4.052023, Y: -2.05133653, Z: 0.0}
+                        Rotation: {X: 0.0, Y: 0.0, Z: 0.0, W: 1.0}
+                        Scale: {X: 1.0, Y: 1.0, Z: 1.0}
+                        Children: {}
+        -   Folder: null
+            Entity:
+                Id: f38e2eca-a1b1-4df5-b015-a2e0150343ca
+                Name: Enemy3Position
+                Components:
+                    90c3fa0f743e111f8784482e7bf2a779: !TransformComponent
+                        Id: e0b5e5e7-7ac0-4adb-8dfe-38ff6d4dcd42
+                        Position: {X: 4.02710867, Y: 2.96181154, Z: 0.0}
+                        Rotation: {X: 0.0, Y: 0.0, Z: 0.0, W: 1.0}
+                        Scale: {X: 1.0, Y: 1.0, Z: 1.0}
+                        Children: {}
+        -   Folder: null
+            Entity:
+                Id: fad29f95-c7a1-4fc8-b04f-625dbf4bff10
+                Name: Ally4Position
+                Components:
+                    90c3fa0f743e111f8784482e7bf2a779: !TransformComponent
+                        Id: 301cb9b2-80a4-4404-92cd-d2cbef5e07b1
+                        Position: {X: 2.12731171, Y: -2.07666183, Z: 0.0}
+                        Rotation: {X: 0.0, Y: 0.0, Z: 0.0, W: 1.0}
+                        Scale: {X: 1.0, Y: 1.0, Z: 1.0}
+                        Children: {}

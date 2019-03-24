@@ -1,0 +1,78 @@
+!SpriteSheet
+Id: 1ac24e48-f2ab-4964-b84c-fc884c5bbac1
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+Type: Sprite2D
+ColorKeyColor: {R: 255, G: 0, B: 255, A: 255}
+Packing: {}
+Sprites:
+    391515890dbf1fa1ef975ba2853255a8:
+        Source: ../../Resources/Characters/giraffe.png
+        Name: giraffe
+        TextureRegion: {X: 0, Y: 0, Width: 284, Height: 285}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    b3eac602c15102d45fe0766146ba3933:
+        Source: ../../Resources/Characters/monkey.png
+        Name: monkey
+        TextureRegion: {X: 0, Y: 0, Width: 284, Height: 285}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    f9f8867dee0a8e9e608eb4b25a8674d1:
+        Source: ../../Resources/Characters/panda.png
+        Name: panda
+        TextureRegion: {X: 0, Y: 0, Width: 284, Height: 285}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    67f5e5e9aefa0c2d175f194aec0c1ce4:
+        Source: ../../Resources/Characters/parrot.png
+        Name: parrot
+        TextureRegion: {X: 0, Y: 0, Width: 284, Height: 285}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    a575924ed10835a7cf7a00b11ddc7788:
+        Source: ../../Resources/Characters/penguin.png
+        Name: penguin
+        TextureRegion: {X: 0, Y: 0, Width: 284, Height: 285}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    3e8cf067c2f912207c23a94f15813e60:
+        Source: ../../Resources/Characters/rabbit.png
+        Name: rabbit
+        TextureRegion: {X: 0, Y: 0, Width: 284, Height: 285}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    fe882b52ce595fa2f5061d083a2c135a:
+        Source: ../../Resources/Characters/slice08_08.png
+        Name: slice08_08
+        TextureRegion: {X: 0, Y: 0, Width: 284, Height: 285}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    69181fc5fa3027b93930ca952188280d:
+        Source: ../../Resources/Characters/slice09_09.png
+        Name: slice09_09
+        TextureRegion: {X: 0, Y: 0, Width: 284, Height: 285}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    d117efcfbf4938b4f6f2967bab959ef5:
+        Source: ../../Resources/Characters/slice10_10.png
+        Name: slice10_10
+        TextureRegion: {X: 0, Y: 0, Width: 284, Height: 285}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
+    fd060911a98788993d26315469880668:
+        Source: ../../Resources/Characters/snake.png
+        Name: snake
+        TextureRegion: {X: 0, Y: 0, Width: 284, Height: 285}
+        Center: {X: 0.0, Y: 0.0}
+        Borders: {X: 0.0, Y: 0.0, Z: 0.0, W: 0.0}
+        BorderColor: {R: 0, G: 0, B: 0, A: 0}
