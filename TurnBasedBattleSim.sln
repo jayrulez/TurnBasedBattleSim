@@ -4,9 +4,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 15.0.27703.2042
 MinimumVisualStudioVersion = 14.0.23107.0
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TurnBasedBattleSim", "TurnBasedBattleSim", "{FA6726CF-7811-4A77-9B06-AED6DC20408B}"
-	ProjectSection(XenkoPackage) = preProject
-		TurnBasedBattleSim/TurnBasedBattleSim.xkpkg = TurnBasedBattleSim/TurnBasedBattleSim.xkpkg
-	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TurnBasedBattleSim.Windows", "TurnBasedBattleSim\TurnBasedBattleSim.Windows\TurnBasedBattleSim.Windows.csproj", "{7F65222B-25AD-4637-95F2-58F784657759}"
 EndProject

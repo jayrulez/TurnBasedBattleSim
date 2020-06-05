@@ -1,16 +1,16 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Xenko.Core.Mathematics;
-using Xenko.Input;
-using Xenko.Engine;
-using Xenko.Rendering.Sprites;
-using Xenko.UI.Controls;
-using Xenko.UI;
-using Xenko.UI.Panels;
-using Xenko.UI.Events;
+using Stride.Core.Mathematics;
+using Stride.Input;
+using Stride.Engine;
+using Stride.Rendering.Sprites;
+using Stride.UI.Controls;
+using Stride.UI;
+using Stride.UI.Panels;
+using Stride.UI.Events;
 
 namespace TurnBasedBattleSim.Game
 {

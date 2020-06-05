@@ -4,7 +4,7 @@ namespace TurnBasedBattleSim
     {
         static void Main(string[] args)
         {
-            using (var game = new Xenko.Engine.Game())
+            using (var game = new Stride.Engine.Game())
             {
                 game.Run();
             }

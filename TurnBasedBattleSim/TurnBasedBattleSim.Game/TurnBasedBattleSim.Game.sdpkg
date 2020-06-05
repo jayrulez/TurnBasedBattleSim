@@ -1,0 +1,21 @@
+!Package
+SerializedVersion: {Assets: 3.1.0.0}
+Meta:
+    Name: TurnBasedBattleSim.Game
+    Version: 1.0.0
+    Authors: []
+    Owners: []
+    RootNamespace: TurnBasedBattleSim
+    Dependencies: null
+AssetFolders:
+    -   Path: !dir ../Assets/Shared
+    -   Path: !dir Effects
+ResourceFolders:
+    - !dir ../Resources
+OutputGroupDirectories: {}
+ExplicitFolders: []
+Bundles: []
+TemplateFolders: []
+RootAssets:
+    - 6b7ef058-03b7-4ee9-b74e-e719ca86329f:BattleCard
+    - 92e00185-4caf-4e38-b70e-564d5a367b69:BattleCardUI
