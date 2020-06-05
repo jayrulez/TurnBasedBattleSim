@@ -24,6 +24,36 @@ namespace TurnBasedBattleSim.Cards
                 Modifier = 1.3f,
                 SkillIconId = 5
             };
+            Skill2 = new Skill
+            {
+                Name = "Crush",
+                Description = "Deals a heavy blow to the target.",
+                Mode = SkillMode.Active,
+                Target = SkillTarget.SingleEnemy,
+                Cooldown = 0,
+                Modifier = 2,
+                SkillIconId = 16
+            };
+            Skill3 = new Skill
+            {
+                Name = "Crush",
+                Description = "Deals a heavy blow to the target.",
+                Mode = SkillMode.Active,
+                Target = SkillTarget.SingleEnemy,
+                Cooldown = 0,
+                Modifier = 2,
+                SkillIconId = 17
+            };
+            Skill4 = new Skill
+            {
+                Name = "Crush",
+                Description = "Deals a heavy blow to the target.",
+                Mode = SkillMode.Active,
+                Target = SkillTarget.SingleEnemy,
+                Cooldown = 0,
+                Modifier = 2,
+                SkillIconId = 18
+            };
         }
     }
 }

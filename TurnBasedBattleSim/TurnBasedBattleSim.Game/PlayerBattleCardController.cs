@@ -1,13 +1,9 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using Stride.Engine;
 using Stride.Rendering.Sprites;
 using Stride.UI;
 using Stride.UI.Controls;
-using Stride.UI.Events;
+using System.Collections.Generic;
+using System.Linq;
 
 namespace TurnBasedBattleSim
 {
@@ -54,6 +50,69 @@ namespace TurnBasedBattleSim
                 skill1Button.Click += delegate
                 {
                     SelectedSkill = battleCard.Skill1;
+                };
+            }
+
+            if (battleCard.Skill2 != null)
+            {
+                var skill2Button = skillButtons.ToList().First(b => b.Name == "Skill2Button");
+
+                var skillImage = skill2Button.FindVisualChildOfType<ImageElement>();
+
+                if (skillImage != null)
+                {
+                    var sprite = (SpriteFromSheet)skillImage.Source;
+
+                    sprite.CurrentFrame = battleCard.Skill2.SkillIconId;
+                }
+
+                skill2Button.Visibility = Visibility.Visible;
+
+                skill2Button.Click += delegate
+                {
+                    SelectedSkill = battleCard.Skill2;
+                };
+            }
+
+            if (battleCard.Skill3 != null)
+            {
+                var skill3Button = skillButtons.ToList().First(b => b.Name == "Skill3Button");
+
+                var skillImage = skill3Button.FindVisualChildOfType<ImageElement>();
+
+                if (skillImage != null)
+                {
+                    var sprite = (SpriteFromSheet)skillImage.Source;
+
+                    sprite.CurrentFrame = battleCard.Skill3.SkillIconId;
+                }
+
+                skill3Button.Visibility = Visibility.Visible;
+
+                skill3Button.Click += delegate
+                {
+                    SelectedSkill = battleCard.Skill3;
+                };
+            }
+
+            if (battleCard.Skill4 != null)
+            {
+                var skill4Button = skillButtons.ToList().First(b => b.Name == "Skill4Button");
+
+                var skillImage = skill4Button.FindVisualChildOfType<ImageElement>();
+
+                if (skillImage != null)
+                {
+                    var sprite = (SpriteFromSheet)skillImage.Source;
+
+                    sprite.CurrentFrame = battleCard.Skill4.SkillIconId;
+                }
+
+                skill4Button.Visibility = Visibility.Visible;
+
+                skill4Button.Click += delegate
+                {
+                    SelectedSkill = battleCard.Skill4;
                 };
             }
 
